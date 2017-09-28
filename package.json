@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PhamHueBK/TestCV_PhamThiHue.git"
+  },
+  "author": "PhamHue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhamHueBK/TestCV_PhamThiHue/issues"
+  },
+  "homepage": "https://github.com/PhamHueBK/TestCV_PhamThiHue#readme"
+}
