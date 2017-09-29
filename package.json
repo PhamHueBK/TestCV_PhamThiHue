@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/PhamHueBK/TestCV_PhamThiHue/issues"
   },
-  "homepage": "https://github.com/PhamHueBK/TestCV_PhamThiHue#readme"
+  "homepage": "https://github.com/PhamHueBK/TestCV_PhamThiHue#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "react": "^15.4.0",
+    "react-bootstrap": "^0.31.3",
+    "react-dom": "^16.0.0"
+  }
 }
